@@ -1,0 +1,22 @@
+{
+    "name": "haphan/social-ranking",
+    "description": "PHP implementation of Reddit hot ranking algorithm",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ha Phan",
+            "email": "thanhha.work@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Haphan\\SocialRanking": ""
+        }
+    },
+
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
