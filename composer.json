@@ -1,6 +1,6 @@
 {
     "name": "haphan/social-ranking",
-    "description": "PHP implementation of Reddit hot ranking algorithm",
+    "description": "PHP implementation of social hot ranking algorithm like Reddit, HackerNews",
     "license": "MIT",
     "authors": [
         {

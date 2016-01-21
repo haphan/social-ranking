@@ -1,4 +1,4 @@
-#Reddit Ranking Algorithm
+#Social Media Ranking Algorithm: Reddit, HackerNews
 
 
 This is PHP implementation of various social media news "Hot" Ranking algoritm. 
