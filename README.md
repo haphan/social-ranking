@@ -8,6 +8,11 @@ This is PHP implementation of various social media news "Hot" Ranking algoritm.
 [HackerNews Ranking](https://medium.com/hacking-and-gonzo/how-hacker-news-ranking-algorithm-works-1d9b0cf2c08d#.4xh80a84x)
 
 ###Usage
+
+```bash
+$ composer require haphan/social-ranking
+```
+
 ```php
 <?php
 
